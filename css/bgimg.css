@@ -1,0 +1,43 @@
+.profile{
+
+    width: 100%;
+    height: 800px;
+    margin: 100px;
+    background-image: url('/HTML/images/game1.jpg');
+    object-fit: cover;
+    background-size: cover;
+    border-color: blue;
+    text-decoration: crimson;
+}
+
+    
+.cash{
+    border: 10px;
+    border-color: aquamarine;
+
+}
+
+table,th,td{
+    border: 10px;color: blue;
+    border-color: aquamarine;
+    
+}
+
+tr:nth-child(even){
+    background: orangered;
+}
+tr:nth-child(odd){
+     background: red;
+}
+table{
+    width: 700px;
+    height: 300px;
+}
+
+.image img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+    
+}

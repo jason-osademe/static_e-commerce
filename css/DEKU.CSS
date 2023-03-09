@@ -1,0 +1,16 @@
+.pic{
+
+    width: 100%;
+    height: 600px;
+    margin: 0;
+    background-image: url('/HTML/images/laptop1.jpg');
+    object-fit: cover;
+    background-size: cover;
+    margin-top: 20px;
+}
+.text{
+    text-align: center;
+    color: #000;
+    font-size: 18px;
+    margin: 30px;
+}

@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card img{
+    width: 100%;
+    height: 180px;
+    background-color: crimson;
+}
+
+.row{
+
+    margin: 10px;
+    width: 100% !important;
+    background-color: red;
+}
+.col-md-3{
+    background-color: blue;
+    width: 288px;
+    border-radius: 50%;
+}
+.image img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+}
